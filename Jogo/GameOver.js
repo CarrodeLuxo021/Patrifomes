@@ -1,0 +1,4 @@
+function mostraGameover(){
+    background(imgFim);
+
+}
